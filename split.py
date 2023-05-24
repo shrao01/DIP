@@ -3,7 +3,7 @@ import numpy as np
 import random
 
 # Read image
-img = cv2.imread('output_image.jpg')
+img = cv2.imread('E:\dip\d.jpg')
 
 # Specify the number of rows and columns for the grid
 num_rows = 4
